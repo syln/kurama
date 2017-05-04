@@ -1,10 +1,10 @@
 {
     "name": "kurama",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "An integrated assistant to develop front-end project",
     "main": "lib/index.js",
     "bin": {
-        "kyuubi": "bin/index.js"
+        "kurama": "bin/index.js"
     },
     "repository": {
         "type": "git",
