@@ -19,3 +19,5 @@ kurama init
 ### 更新说明
 
 1. 构建工具都是基于cooking，使用方法参考[https://github.com/ElemeFE/cooking](https://github.com/ElemeFE/cooking)
+
+2. 修改windows下无法直接使用`git clone`
